@@ -74,4 +74,4 @@ const calculadora = (a, operador, b) => {
 };
 
 document.write(`<p>O resultado da operação matemática é 
-    ${calculadora(1100,"-", 100)}`)
+    ${calculadora(1100,"-", 100)}</p>`);
